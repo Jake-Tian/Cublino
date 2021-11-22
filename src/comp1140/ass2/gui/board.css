@@ -1,0 +1,32 @@
+.button {
+    -fx-cursor: hand;
+}
+
+.button .brown-button {
+    -fx-fill: #9B9365;
+}
+.button:hover .brown-button {
+    -fx-fill: #878059;
+}
+
+.button .green-button {
+    -fx-fill: #26BF51;
+}
+.button:hover .green-button {
+    -fx-fill: #23B54C;
+}
+
+.button .grey-button {
+    -fx-fill: #C8C8C8;
+}
+.button:hover .grey-button {
+    -fx-fill: #CCCCCC;
+}
+
+.button .red-button {
+    -fx-fill: #D77373;
+}
+
+.button:hover .red-button {
+    -fx-fill: #CF7171;
+}
