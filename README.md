@@ -113,3 +113,5 @@ The starting orientation of the white dice encoded as `W` and the starting orien
 
 A step is encoded as a four character string. The first two characters are the starting location of the step. The third and fourth characters are the ending location of the step. Each pair of characters encodes a position using the same format as the second and third characters of a die encoding. A move is encoded as a sequence of positions where each pair of positions indicates a step.
 
+#### Explanation Video
+https://anu365-my.sharepoint.com/:v:/g/personal/u7310055_anu_edu_au/EU57SbkGzclIhZ1hpqXUxgABMMbpHkCZX7KpMf7OyZOtpA?e=KynoLs
